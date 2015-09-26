@@ -1,8 +1,5 @@
 #!/bin/bash
-
-
 # general functions
-
 function pause(){
   read -p "$*"
 }
