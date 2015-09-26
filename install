@@ -44,8 +44,8 @@ function joinFolder(){
 
 function install(){
   echo "Installing..."
-  git clone https://github.com/smicroz/einDa-skin.git
-  chown -R diradmin:diradmin einDa-skin/
+  git clone https://github.com/kexior/kexior.git
+  chown -R diradmin:diradmin kexior/
 }
 
 function update(){
